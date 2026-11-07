@@ -1,5 +1,5 @@
 ---
-name: Boring Search
+name: let-me-research
 description: 'Prepare primary-source reading material so the user can do their own research - links only, never answers or explanations. Trigger on "let me research X", "let me search for X", "let me answer Q", or any ask to find authentic sources on a subject: specs, standards, reference manuals, datasheets, papers, registries, defining code. Also trigger when the user wants documentation instead of a tutorial, or wants to figure something out themselves. Do not use for explanations, summaries, tutorials, opinions, or coding help.'
 ---
 
